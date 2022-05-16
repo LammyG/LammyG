@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LammyG
 - 👀 I’m interested in data science...
-- 🌱 I’m currently learning python programming..
+- 🌱 I’m currently a juniorn data analyst vast in python programming..
 - 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me gabriel.olams24@gmail.com..
 
