@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LammyG
 - 👀 I’m a biodata science enthusiast.
-🎓 Studying Bioinformatics at Teesside University
+🎓 MSc candidate in Bioinformatics at Teesside University
 📁 Modules: Python for Bioinformatics | Data Analysis | Genomics | R Programming | Proteomics.
 - 💞️ I’m looking to collaborate on more real-life projects...
 - 📫 How to reach me: olamideokunola001@gmail.com.
