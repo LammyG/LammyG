@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @LammyG
 - 👀 I’m a biodata science enthusiast.
+  
 🎓  Graduate researcher in Computational Biology
+
 Institution: Teesside University
 📁 Modules: Python for Bioinformatics | Data Analysis | Genomics | R Programming | Proteomics.
 - 💞️ I’m looking to collaborate on more real-life projects...
